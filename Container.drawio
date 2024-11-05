@@ -1,0 +1,62 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" version="24.8.4">
+  <diagram name="第 1 页" id="VuYIiaME73QajBSQETCy">
+    <mxGraphModel dx="631" dy="374" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Oa-y0ltVQelZFfzUO-oH-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Oa-y0ltVQelZFfzUO-oH-1" target="Oa-y0ltVQelZFfzUO-oH-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="45" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Oa-y0ltVQelZFfzUO-oH-7" value="实现" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Oa-y0ltVQelZFfzUO-oH-2">
+          <mxGeometry x="0.2106" y="-1" relative="1" as="geometry">
+            <mxPoint y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Oa-y0ltVQelZFfzUO-oH-1" value="LinkedList" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="80" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Oa-y0ltVQelZFfzUO-oH-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Oa-y0ltVQelZFfzUO-oH-3" target="Oa-y0ltVQelZFfzUO-oH-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Oa-y0ltVQelZFfzUO-oH-14" value="继承" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Oa-y0ltVQelZFfzUO-oH-13">
+          <mxGeometry x="0.0076" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Oa-y0ltVQelZFfzUO-oH-3" value="List" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="40" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Oa-y0ltVQelZFfzUO-oH-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Oa-y0ltVQelZFfzUO-oH-4" target="Oa-y0ltVQelZFfzUO-oH-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Oa-y0ltVQelZFfzUO-oH-11" value="继承" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Oa-y0ltVQelZFfzUO-oH-10">
+          <mxGeometry x="-0.1067" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Oa-y0ltVQelZFfzUO-oH-4" value="Deque" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="120" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Oa-y0ltVQelZFfzUO-oH-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Oa-y0ltVQelZFfzUO-oH-1" target="Oa-y0ltVQelZFfzUO-oH-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Oa-y0ltVQelZFfzUO-oH-6" value="实现" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Oa-y0ltVQelZFfzUO-oH-5">
+          <mxGeometry x="0.054" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Oa-y0ltVQelZFfzUO-oH-8" value="Queue" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="120" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Oa-y0ltVQelZFfzUO-oH-12" value="Collection" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="40" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Oa-y0ltVQelZFfzUO-oH-15" value="Collection" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="200" width="70" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
