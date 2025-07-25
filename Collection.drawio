@@ -1,9 +1,92 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.6">
   <diagram name="第 1 页" id="MjjZqHsRhFwVBgK8Loyb">
-    <mxGraphModel>
+    <mxGraphModel dx="621" dy="736" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="600" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="i4Yq50V_pcgMEu2wDQmh-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="i4Yq50V_pcgMEu2wDQmh-5" target="i4Yq50V_pcgMEu2wDQmh-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i4Yq50V_pcgMEu2wDQmh-2" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="i4Yq50V_pcgMEu2wDQmh-1">
+          <mxGeometry x="0.1201" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i4Yq50V_pcgMEu2wDQmh-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="i4Yq50V_pcgMEu2wDQmh-5" target="i4Yq50V_pcgMEu2wDQmh-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i4Yq50V_pcgMEu2wDQmh-4" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="i4Yq50V_pcgMEu2wDQmh-3">
+          <mxGeometry x="0.0074" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i4Yq50V_pcgMEu2wDQmh-5" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;需要根据键值&lt;/span&gt;&lt;span style=&quot;text-wrap-mode: nowrap; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;获取到元素值吗？&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="71" y="128" width="114" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="i4Yq50V_pcgMEu2wDQmh-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="i4Yq50V_pcgMEu2wDQmh-11" target="i4Yq50V_pcgMEu2wDQmh-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i4Yq50V_pcgMEu2wDQmh-7" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="i4Yq50V_pcgMEu2wDQmh-6">
+          <mxGeometry x="0.1199" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i4Yq50V_pcgMEu2wDQmh-8" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;需保证元素唯一&amp;nbsp;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="i4Yq50V_pcgMEu2wDQmh-6">
+          <mxGeometry x="0.1199" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i4Yq50V_pcgMEu2wDQmh-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="i4Yq50V_pcgMEu2wDQmh-11" target="i4Yq50V_pcgMEu2wDQmh-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i4Yq50V_pcgMEu2wDQmh-10" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;需保证元素有序&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="i4Yq50V_pcgMEu2wDQmh-9">
+          <mxGeometry x="-0.0283" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i4Yq50V_pcgMEu2wDQmh-11" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;选择实现 Collection接口的集合&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="223" y="158" width="114" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="i4Yq50V_pcgMEu2wDQmh-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="i4Yq50V_pcgMEu2wDQmh-17" target="i4Yq50V_pcgMEu2wDQmh-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i4Yq50V_pcgMEu2wDQmh-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="i4Yq50V_pcgMEu2wDQmh-17" target="i4Yq50V_pcgMEu2wDQmh-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i4Yq50V_pcgMEu2wDQmh-14" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;不需排序&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="i4Yq50V_pcgMEu2wDQmh-13">
+          <mxGeometry x="0.2824" y="3" relative="1" as="geometry">
+            <mxPoint x="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i4Yq50V_pcgMEu2wDQmh-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="i4Yq50V_pcgMEu2wDQmh-17" target="i4Yq50V_pcgMEu2wDQmh-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i4Yq50V_pcgMEu2wDQmh-16" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;需线程安全&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="i4Yq50V_pcgMEu2wDQmh-15">
+          <mxGeometry x="0.1415" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i4Yq50V_pcgMEu2wDQmh-17" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;选择实现 Map 接口的集合&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="221" y="97" width="114" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="i4Yq50V_pcgMEu2wDQmh-18" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;TreeMap&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="387" y="48" width="56" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="i4Yq50V_pcgMEu2wDQmh-19" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;需要排序&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="337" y="54" width="51" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="i4Yq50V_pcgMEu2wDQmh-20" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;HashMap&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="387" y="87" width="56" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="i4Yq50V_pcgMEu2wDQmh-21" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;ConcurrentMap&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="387" y="124" width="67" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="i4Yq50V_pcgMEu2wDQmh-22" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;选择实现 Set 接口的集合&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="387" y="150" width="94" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="i4Yq50V_pcgMEu2wDQmh-23" value="&lt;span style=&quot;font-size: 8px; text-wrap-mode: nowrap;&quot;&gt;选择实现 List 接口的集合；&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 8px; text-wrap-mode: nowrap;&quot;&gt;查找多的用ArraryList；&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 8px; text-wrap-mode: nowrap;&quot;&gt;随机增删多的用 LinkedList&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="381.5" y="189" width="105" height="55" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
